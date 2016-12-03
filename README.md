@@ -11,4 +11,4 @@ sudo apt-get install libcurl4-openssl-dev
 2-Install openssl library for Ubuntu:
 sudo apt-get install libssl-dev
 
-After installation, you have to link curl and crypto library. 
+After installation, you have to link curl and crypto library. You can find sample makefile in debug files source. 
