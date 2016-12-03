@@ -4,7 +4,7 @@ C++ http client with using curl library, POST method used to check Payment Card 
 Project compile with Linux GCC, used Eclipse IDE and runs on Ubuntu 16.10 unix system.
 
 Dependencies: 
--Install curl library for Ubuntu: 
+\n-Install curl library for Ubuntu: 
 sudo apt-get install libcurl4-openssl-dev
 
 -Install openssl library for Ubuntu:
